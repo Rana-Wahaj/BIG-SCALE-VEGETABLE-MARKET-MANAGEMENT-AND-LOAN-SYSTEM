@@ -1,4 +1,5 @@
-# BIG-SCALE-VEGETABLE-MARKET-MANAGEMENT-AND-LOAN-SYSTEM-hhahaha
+# BIG-SCALE-VEGETABLE-MARKET-MANAGEMENT-AND-LOAN-SYSTEM-using oop concepts in c++
+
 
 The main idea is to implement the concepts of OOP and real-world problem-solving skills to 
 implement this management system. This program will not only provide Registration system for 
